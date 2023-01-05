@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{
+{ // declaring an array
     int array[4] = {10, 20, 30, 40};
     cout << array[3] << endl;
     return 0;

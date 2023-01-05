@@ -1,6 +1,7 @@
+// LINEAR SEARCH IN ARRAYS
 #include <iostream>
 using namespace std;
-
+// a function to search for an element in an array
 int linearsearch(int arr[], int n, int key)
 {
     for (int i = 0; i < n; i++)
